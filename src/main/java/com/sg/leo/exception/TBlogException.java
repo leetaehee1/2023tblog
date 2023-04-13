@@ -1,5 +1,3 @@
-// /sbootblog/src/main/java/com/sg/leo/exception/SblogException.java
-
 package com.sg.leo.exception;
 
 public class TBlogException extends RuntimeException {
